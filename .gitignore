@@ -79,3 +79,7 @@ debian/files
 /week02_autodiff/notMNIST_small/
 /week02_autodiff/notMNIST_small.tar.gz
 /week02_autodiff/untar_notmnist.log
+
+# CIFAR-10 data and local model checkpoints
+/week03_convnets/cifar_data/
+/week03_convnets/checkpoints/

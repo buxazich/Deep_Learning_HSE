@@ -83,3 +83,20 @@ debian/files
 # CIFAR-10 data and local model checkpoints
 /week03_convnets/cifar_data/
 /week03_convnets/checkpoints/
+
+
+# datasets
+week04_finetuning/dogs_vs_cats_1000/
+week04_finetuning/dogs_vs_cats_1000.zip
+week04_finetuning/oxford-iiit-pet/
+week04_finetuning/__MACOSX/
+week04_finetuning/other_frameworks/
+week04_finetuning/sample_images/
+
+# python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# model weights
+*.pt
+*.pth
